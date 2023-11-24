@@ -350,5 +350,8 @@ background-color: #5b5b5b;
   padding: 5px;
 border-radius: 4px;
 }
-
+.text-footer{
+  color: #333;
+  font-size: 13px;
+}
 /* ^end contact */
